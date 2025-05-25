@@ -1,0 +1,17 @@
+.login-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f3f4f6; /* Cor de fundo leve (gray-100) */
+    padding: 16px;
+  }
+  
+  .form-container {
+    max-width: 400px;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
